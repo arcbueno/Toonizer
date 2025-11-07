@@ -8,7 +8,7 @@ Script to convert JSON to TOON
     npm i
     ```
     ```bash
-    npx tsc -w
+    npx tsc
     ```
     ```bash
     node dist/index.js
